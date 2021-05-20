@@ -4,7 +4,7 @@ This repo contains .NET project of simple start up applications viewer on Window
 After launching the application shows the Windows startup apps data list from Registry and StartUpMenu.
 User can open folder with file by double click on it.
 
-![alt text](https://disk.yandex.ru/i/q-rOO3td_yfZtw)
+![alt text](ScreenShot.JPG)
 
 ## Clone:
 

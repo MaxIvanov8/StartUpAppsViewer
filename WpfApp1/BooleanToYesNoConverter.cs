@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Data;
 
-namespace WpfApp1
+namespace StartUpAppsViewer
 {
     public class BooleanToYesNoConverter : IValueConverter
     {

@@ -1,4 +1,4 @@
-﻿namespace WpfApp1
+﻿namespace StartUpAppsViewer
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

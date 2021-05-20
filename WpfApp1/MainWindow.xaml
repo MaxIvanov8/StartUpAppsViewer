@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="1021" >
+        Title="StartUpAppsViewer" Height="350" Width="1021" >
     <Window.Resources>
         <local:BooleanToYesNoConverter  x:Key="BooleanToYesNoConverter" />
     </Window.Resources>
